@@ -1,5 +1,6 @@
 .tabPane{
   background : #666
+    width : 100%
 }
 .tabPane button{
   background : inherit;
@@ -16,4 +17,5 @@
 .tabPaneContent {
   background : #f0f0f0;
   padding : 2% 0;
+  height : 100%
 }
