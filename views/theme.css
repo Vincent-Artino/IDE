@@ -4,6 +4,9 @@
 .tabs button{
   background : inherit;
   cursor: pointer;
+  float: left;
+  border: none;
+  outline: none;
 }
 
 .tabs button:hover {
@@ -11,7 +14,6 @@
 }
 .tabPaneContent {
   background : #f0f0f0;
-  height: 90%;
   padding : 2% 0;
   margin : 5%
 }
