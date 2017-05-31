@@ -1,5 +1,5 @@
 .tabPane{
-  background : #ddd
+  background : #666
 }
 .tabPane button{
   background : inherit;
@@ -7,6 +7,7 @@
   float: left;
   border: none;
   outline: none;
+  padding : 10x 10px;
 }
 
 .tabPane button:hover {
